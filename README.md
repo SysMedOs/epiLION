@@ -1,6 +1,7 @@
 ![epiLION_Logo](doc/images/epiLION_Logo.png)
 # # epi<span style="color:orange">L</span>ipidome <span style="color:orange">I</span>dentifier and <span style="color:orange">O</span>ptimized <span style="color:orange">N</span>omenclature #
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c02db70257b64538af60df36c480b042)](https://app.codacy.com/app/zhixu.ni/epiLION?utm_source=github.com&utm_medium=referral&utm_content=SysMedOs/epiLION&utm_campaign=Badge_Grade_Dashboard)
 [![Travis (.com) all](https://img.shields.io/travis/com/SysMedOs/epiLION/master.svg)](https://travis-ci.com/SysMedOs/epiLION)
 ![CodeFactor](https://www.codefactor.io/repository/github/signalr/signalr/badge)
 ![Codecov](https://img.shields.io/codecov/c/github/SysMedOs/epiLION.svg)
