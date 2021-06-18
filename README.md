@@ -1,3 +1,27 @@
+# ! epiLION is a legacy project of Team SysMedOs.
+# The successor of epiLION is the LipidLynxX Project: https://github.com/SysMedOs/LipidLynxX
+LipidLynxX provides the possibility to convert, cross-match, and link various lipid annotations to the tools supporting lipid ontology, pathway, and network analysis aiming systems-wide integration and functional annotation of lipidome dynamics in health and disease.
+
+![LipidLynx_Logo](https://github.com/SysMedOs/LipidLynxX/blob/master/doc/images/LipidLynxX_Logo_merged.png) 
+
+![Platforms](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-blue.svg?color=orange)
+![total downloads](https://img.shields.io/github/downloads/SysMedOs/LipidLynxX/total.svg?color=green)
+![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/SysMedOs/LipidLynxX.svg)
+![GitHub commits since latest release](https://img.shields.io/github/commits-since/SysMedOs/LipidLynxX/v0.9.24.svg?color=green)
+![GitHub last commit](https://img.shields.io/github/last-commit/SysMedOs/LipidLynxX.svg)
+
+The LipidLynxX project is aimed to provide a unified identifier for major lipids, especially oxidized lipids
+in the epilipidome.
+
+## LipidLynxX on LIPID MAPS® Lipidomics Gateway
+Thanks to LIPID MAPS, you can now use [LipidLynxX on LIPID MAPS® Lipidomics Gateway](http://lipidmaps.org/lipidlynxx/)
+
+[http://lipidmaps.org/lipidlynxx/](http://lipidmaps.org/lipidlynxx/)
+
+## Please visit https://github.com/SysMedOs/LipidLynxX for more information.
+
+# About epiLION
+
 # ![epiLION_Logo](doc/images/epiLION_Logo.png)
 
 ## epi<span style="color:orange">L</span>ipidome <span style="color:orange">I</span>dentifier and <span style="color:orange">O</span>ptimized <span style="color:orange">N</span>omenclature
